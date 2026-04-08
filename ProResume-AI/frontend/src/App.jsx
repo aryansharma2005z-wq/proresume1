@@ -11,7 +11,7 @@ import {
   MapPin,
   Building2,
   Briefcase,
-} from "lucide-react";
+} from "lucide-react";  
 
 // Assuming these components exist in your project structure
 import Waves from "./blocks/Backgrounds/Waves/Waves";
@@ -108,9 +108,7 @@ const Loader = () => (
         </div>
         <div className="text-lg sm:text-xl text-purple-200 text-center">
           Analyzing your resume... <br />
-          {/* <span className="text-sm text-purple-400 mt-2 block">
-            Made with ❤️ by -Krish 🥷
-          </span> */}
+          
         </div>
       </div>
     </div>

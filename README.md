@@ -12,7 +12,7 @@ ProResume is an innovative application designed to help job seekers optimize the
 *   **Skill Analysis**: Identifies strong and missing skills based on job descriptions and industry trends.
 *   **Personalized Feedback**: Offers tailored recommendations for improving your resume.
 *   **Web Scraping**: Gathers real-time job data and industry insights for accurate analysis.
-*   **AI-Powered Analysis**: Utilizes advanced AI models (e.g., Cohere) for in-depth resume evaluation.
+*   **AI-Powered Analysis**: Utilizes advanced AI models (e.g., OpenAI) for in-depth resume evaluation.
 
 
 
@@ -30,7 +30,7 @@ ProResume is an innovative application designed to help job seekers optimize the
 *   `multer` for handling file uploads
 *   `cors` for Cross-Origin Resource Sharing
 *   `dotenv` for environment variable management
-*   Cohere API for AI-powered analysis
+*   OpenAI API for AI-powered analysis
 *   Custom modules for ATS keyword analysis, industry benchmarks, and web scraping.
 
 
