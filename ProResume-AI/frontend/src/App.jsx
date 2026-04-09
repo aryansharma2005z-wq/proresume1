@@ -258,12 +258,12 @@ export default function ResumeAnalyzer() {
   return (
     <>
       <center>
-      <a href="YOUR_PAPER_URL"
+      <a href="https://drive.google.com/file/d/1-EHLtmFq9NH3W8mOP-cIp80sRu5-NipO/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm text-purple-300 hover:text-purple-100 hover:bg-purple-500/10 transition-colors"
 >
-  Research Paper
+  Review Paper
   <ExternalLink className="w-3.5 h-3.5 opacity-60" />
 </a>
     </center>
