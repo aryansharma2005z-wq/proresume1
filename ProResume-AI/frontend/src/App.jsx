@@ -58,7 +58,7 @@ const Hero = ({ funcUpload, loading }) => (
       <div className="text-center space-y-8">
         <div className="space-y-4">
           <h1 className="text-4xl sm:text-6xl font-bold bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent">
-            ProResume AI
+            ResuMate
           </h1>
           <p className="text-lg sm:text-xl text-purple-100">
             Transform your career with AI insights
